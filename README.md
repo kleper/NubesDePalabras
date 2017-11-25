@@ -1,5 +1,7 @@
 # Nubes De Palabras
 
+![Nube de Palabras](https://raw.githubusercontent.com/kleper/NubesDePalabras/master/NubePalabras.png)
+
 Guía para crear de forma semi-automatizada nubes de palabras basadas en las frecuencias de las mismas encontradas en corpus de textos.
 
 Las nubes de palabras suelen ser utiles para mostrar de manera grafica la palabras que mas se utilizan en lo que escribimos o escriben otros, es una visualización de datos que puede ayudarnos a entender la forma como está escrita un texto.
